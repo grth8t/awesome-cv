@@ -206,6 +206,7 @@
 ## 🤖 AI & Optimization Tools
 
 * [Jobscan](https://www.jobscan.co) — ATS optimization tool that compares your resume against job descriptions. **🤖 💼**
+* [Jorrilo](https://jorrilo.com) — Free ATS resume check and AI-tailored job applications; compare your resume against any job description and generate tailored resumes grounded in your actual experience. **🆓 🌐 🤖 💼**
 * [Resume Worded](https://resumeworded.com) — AI-powered resume review and optimization. **🤖 💼**
 * [Rezi](https://www.rezi.ai) — AI resume builder with ATS optimization. **🤖 💼**
 * [Enhancv](https://enhancv.com) — Resume builder with content suggestions and ATS checking. **🌐 🤖 💼**
